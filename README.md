@@ -11,6 +11,10 @@ Supported providers (in alphabetical order):
 * hubiC
 * OneDrive
 
+Supported OS:
+* Windows
+* Linux: not yet, see [Issue #18](https://github.com/Kyrodan/KeeAnywhere/issues/18)
+
 ![KeeAnywhere in Action](docs/assets/images/KeeAnywhere_Teaser.png)
 
 
